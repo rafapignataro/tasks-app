@@ -8,10 +8,9 @@
 </p>
 
 ## Tecnologias
-
-React
-Typescript
-Scss
+ - React
+ - Typescript
+ - Scss
 
 ## :rocket: Run in your computer!
 
