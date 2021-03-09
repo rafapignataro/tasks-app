@@ -18,7 +18,7 @@ Scss
 ### 1: Clone
 
 ```sh
-git clone https://github.com/rafapignataro/Chatix.git
+git clone https://github.com/rafapignataro/tasks-app.git
 ```
 
 ### 2: Install the dependencies
