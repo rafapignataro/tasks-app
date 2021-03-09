@@ -1,6 +1,6 @@
 <br />
 <h1>Tasks App</h1>
-![Screenshot 2021-03-09 171443](https://user-images.githubusercontent.com/16678782/110531940-f9705500-80fa-11eb-9abe-3c1796de6386.png)
+![alt text](https://github.com/rafapignataro/tasks-app/blob/main/src/assets/appScreenshot.png?raw=true)
 <h3>A place to write down your tasks</h3>
 <a href="https://www.linkedin.com/in/rafael-pignataro/"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue" /></a>
 </p>
